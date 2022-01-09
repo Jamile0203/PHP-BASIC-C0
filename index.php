@@ -1,8 +1,5 @@
 
-$test = true;
-echo $test; 
+ $voornaam = "Tom";
+ echo gettype($voornaam);
 
-$test = null; 
-echo $test;
-
-
+ 
