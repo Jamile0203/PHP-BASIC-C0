@@ -1,3 +1,5 @@
 
-$naam = "Jamile";
-echo $naam; 
+$test = true;
+echo $test; 
+
+$test = null; 
