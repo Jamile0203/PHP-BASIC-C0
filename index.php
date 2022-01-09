@@ -1,1 +1,3 @@
-$score = 0;
+
+$naam = "Jamile";
+echo $naam; 
